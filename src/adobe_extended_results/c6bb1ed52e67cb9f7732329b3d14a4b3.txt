@@ -1,0 +1,3 @@
+Instructions: Translate the following content from Russian to English. Output only the translated text and nothing else. If the text says "CANNOT TRANSCRIBE FILE", please output the text "CANNOT TRANSCRIBE FILE".
+
+Content: Transcription(text=' И западные дома, дома в дорогах.', x_groq={'id': 'req_01jdfphmdef0wbbhy7f997ar

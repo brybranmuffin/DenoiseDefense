@@ -1,0 +1,1 @@
+Content: Transcription(text=' Ну, іноді, за всіма, у дзвоників у руках 6 людей відправлять у футбол.', x_groq={'id': 'req_01jdfpdnkfezn8n3d7zs31d6x5'})

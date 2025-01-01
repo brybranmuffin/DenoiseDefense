@@ -1,0 +1,5 @@
+Task: Translate the given Russian text into English.
+
+Guidelines: Output only the translated text and nothing else. If the text says "CANNOT TRANSCRIBE FILE", output that text.
+
+Translation: "So, comrades, understand how much time we have to rest? 10-15 small ones are there.",

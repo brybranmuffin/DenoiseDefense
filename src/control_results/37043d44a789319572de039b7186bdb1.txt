@@ -1,0 +1,5 @@
+Original text: 'Еще немного назад, чтобы было видно дамбу.'
+
+Translation: 'A little while ago, so you can see the dam.'
+
+Output: 'A little while ago, so you can see the dam.'

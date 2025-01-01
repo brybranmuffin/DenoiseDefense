@@ -1,0 +1,1 @@
+Content: Transcription(text=' No, no, it locked.', x_groq={'id': 'req_01jdfqw478fdcbpeg0geffan4v'})
